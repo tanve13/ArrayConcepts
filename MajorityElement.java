@@ -9,8 +9,7 @@ public class MajorityElement {
             }
             count += (num == candidate) ? 1 : -1;
         }
-
-        return candidate;
+                 return candidate;
     }
 
     public static void main(String[] args) {
