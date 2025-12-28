@@ -1,8 +1,7 @@
 import java.util.*;
 
 public class IntersectionOfTwoArrays {
-
-    public static void main(String[] args) {
+ public static void main(String[] args) {
         Solution solution = new Solution();
 
         int[] nums1 = {1, 2, 2, 1};
