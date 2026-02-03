@@ -1,3 +1,3 @@
-# ArrayConcepts
+# ArrayConcept
 
 Array concepts related code are there...
