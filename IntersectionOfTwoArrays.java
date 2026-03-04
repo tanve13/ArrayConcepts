@@ -15,8 +15,7 @@ int[] result = solution.intersection(nums1, nums2);
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set1 = new HashSet<>();
         Set<Integer> resultSet = new HashSet<>();
-
-        for (int num : nums1) {
+            for (int num : nums1) {
             set1.add(num);
         }
 
