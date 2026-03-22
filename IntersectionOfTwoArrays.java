@@ -10,8 +10,7 @@ int[] result = solution.intersection(nums1, nums2);
         System.out.println(Arrays.toString(result)); // [2]
     }
 }
- 
- class Solution {
+  class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
         Set<Integer> set1 = new HashSet<>();
         Set<Integer> resultSet = new HashSet<>();
