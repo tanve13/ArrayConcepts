@@ -27,8 +27,7 @@ public class FindFirstMissingPositive {
 
     public static void main(String[] args) {
         Solution sol = new Solution();
-
-        int[] nums = {3, 4, -1, 1};
+       int[] nums = {3, 4, -1, 1};
         System.out.println(sol.firstMissingPositive(nums)); // Output: 2
     }
 }
